@@ -7,8 +7,9 @@
 * Created this project using python and mysql for database.
 
 ## How to Run it ?
-1. Run mysql server
-2. Run the main.py file using commmand 
+1. Clone the repository into your system and move to the repository.
+2. Run mysql server
+3. Run the main.py file using commmand 
 
 ```bash
 python main.py
